@@ -1,0 +1,20 @@
+{
+  "name": "SAMPSTATUSBOT",
+  "version": "1.0.0",
+  "description": " displays information about a San Andreas Multiplayer (SAMP) server from a  server webpage also fetches server playercount",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.11",
+    "config.js": "^0.1.0",
+    "config.json": "^0.0.4",
+    "discord.js": "^13.2.0"
+  }
+}
