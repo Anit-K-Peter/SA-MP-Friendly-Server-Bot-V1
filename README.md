@@ -37,14 +37,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-
-## Supporters and Contributors
-
-- Supported By [TEAM God Dc Developers](https://discord.gg/apF2ZBXZVF)
-- **Sub-Developers**: damn.itx.fazy & n0t.see
-- **Helpers**: santa_.k
-
-# Stay tuned for the V2 update
-
-##### Powered by GOD DC DEVELOPER COMMUNITY
----
